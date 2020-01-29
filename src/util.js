@@ -1,3 +1,4 @@
+// replace this url with your personal API url
 export const api = 'https://js401n14-todo-server.herokuapp.com';
 
 export const dateFix = date => {
